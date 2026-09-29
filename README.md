@@ -2,7 +2,7 @@
 
 # I work in: 
 <p align="left"> 
-  <img src="https://shields.io" alt="JavaScript" /> 
+  <img src="https://img.shields.io" alt="JavaScript" /> 
   <img src="https://shields.io" alt="Java" /> 
   <img src="https://shields.io" alt="Node.js" /> 
   <img src="https://shields.io" alt="Python" /> 
