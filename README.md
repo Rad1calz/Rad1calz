@@ -35,7 +35,7 @@ Minecraft / Eaglercraft Development:
 🤖 Discord bots & Minecraft integrations
 
 My GitHub Stats:
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Rad1calz&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rad1calz&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" /> </p>
 GitHub Streak:
 <p align="left"> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180" /> </p>
 🤖 Minecraft Discord Integrations
