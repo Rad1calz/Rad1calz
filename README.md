@@ -4,6 +4,6 @@ I work in:
 
 And more
 
-GitHub Streak
+And more
 <p align="left"> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" height="180" /> </p>
 
